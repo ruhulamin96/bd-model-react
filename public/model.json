@@ -1,0 +1,97 @@
+[
+    {
+        "name":"Apurba",
+        "city":"Cumilla",
+        "age": "27",
+        "drama":"38",
+        "image":"./images/Apurbo.jpg",
+        "charge":"42000"
+    },
+    {
+        "name":"Arfan Nisho",
+        "city":"Rangpur",
+        "age": "38",
+        "drama":"52",
+        "image":"./images/Nisho.jpg",
+        "charge":"50000"
+    },
+    {
+        "name":"Polash",
+        "city":"Noakhali",
+        "age": "23",
+        "drama":"25",
+        "image":"./images/Polash.jpg",
+        "charge":"32000"
+    },
+    {
+        "name":"Mehzabin",
+        "city":"Chattogram",
+        "age": "26",
+        "drama":"41",
+        "image":"./images/Mehzabin.jpg",
+        "charge":"60000"
+    },
+    {
+        "name":"Sabila Nur",
+        "city":"Sylet",
+        "age": "29",
+        "drama":"21",
+        "image":"./images/Sabila Nur.png",
+        "charge":"48000"
+    },
+    {
+        "name":"Tanjin Tisha",
+        "city":"Barishal",
+        "age": "22",
+        "drama":"24",
+        "image":"./images/Tanjin Tisha.jpg",
+        "charge":"55000"
+    },
+    {
+        "name":"Mosharraf Karim",
+        "city":"Khulna",
+        "age": "28",
+        "drama":"60",
+        "image":"./images/Mosharraf.jpg",
+        "charge":"60000"
+    },
+    {
+        "name":"Bidya Sinha Mim",
+        "city":"Cumilla",
+        "age": "26",
+        "drama":"51",
+        "image":"./images/Mim.jpg",
+        "charge":"41000"
+    },
+    {
+        "name":"Chanchal Chowdhury",
+        "city":"Pabna",
+        "age": "39",
+        "drama":"75",
+        "image":"./images/Chanchal.jpg",
+        "charge":"65000"
+    },{
+        "name":"Tahsan",
+        "city":"Dhaka",
+        "age": "53",
+        "drama":"60",
+        "image":"./images/Tahsan.jpg",
+        "charge":"70000"
+    },
+    {
+        "name":"Mishu Sabbir",
+        "city":"Narail",
+        "age": "28",
+        "drama":"65",
+        "image":"./images/Mishu.jpg",
+        "charge":"48000"
+    },
+    {
+        "name":"Keya Payel",
+        "city":"Kushtia",
+        "age": "26",
+        "drama":"30",
+        "image":"./images/Keya.jpg",
+        "charge":"25000"
+    }
+]
