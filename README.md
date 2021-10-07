@@ -1,6 +1,6 @@
 ﻿# Bd-Model Hunter House
 
-[BD model Hunter House](https://bd-model-hunter-home.netlify.app/).
+[BD model Hunter House Live site Link](https://bd-model-hunter-home.netlify.app/).
 
 ## Main point
 
