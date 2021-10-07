@@ -1,5 +1,6 @@
-﻿# Bd-Model Hunter House 
-[https://bd-model-hunter-home.netlify.app/](https://github.com/facebook/create-react-app).
+﻿# Bd-Model Hunter House
+
+[BD model Hunter House](https://bd-model-hunter-home.netlify.app/).
 
 ## Main point
 
